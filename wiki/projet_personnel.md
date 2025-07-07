@@ -66,11 +66,11 @@ Le projet doit être remis à 16 :00 le jour 7.
 
 # Présentation finale
 
-Au jours 7 et 8, chaque élève présente son projet personnel en entrevue avec l’enseignant.
+Aux jours 7 et 8, chaque élève présente son projet personnel en entrevue avec l’enseignant.
 
 La présentation est une démonstration de toutes les fonctionnalités développées et une explication du code par une série de question de l’enseignant.
 
-L’entrevue se fait dans une salle isolée des autres élèves et a une durée de 20 à 30 minutes.
+L’entrevue se fait dans une salle isolée des autres élèves et a une durée de 20 minutes.
 
 # Grille de correction
 Élément|Excellent|Satisfaisant|Minimal|Faible|Insuffisant

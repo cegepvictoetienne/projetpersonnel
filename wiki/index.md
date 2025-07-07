@@ -9,7 +9,7 @@ Nom : Étienne Rivard
 - 420\-6A3\-VI \- Projet personnel
 - 45h de cours sur 2 semaines \(6h/jour\)
 
-## Horaire pour l'été 2024
+## Horaire pour l'été 2025
 
 [Voir l'horaire ici](horaire.md)
 
