@@ -60,6 +60,14 @@ def generer_horaire():
         f.write("# Horaire du cours de projet personnel\n")
         f.writelines(grille)
 
+def generer_horaire_rencontres():
+
+    grille = generer_grille("template/horaire-rencontres.xlsx", "rencontre-fin")
+
+    with open("./wiki/horaire_rencontres.md", "w") as f:
+        # Écrire le titre de la page
+        f.write("# Horaire des rencontres de fin de projet\n")
+        f.writelines(grille)
 
 def generer_projet_personnel():
 
@@ -76,6 +84,9 @@ def generer_projet_personnel():
 
 print("Générer la page de l'horaire")
 generer_horaire()
+
+print("Générer la page de l'horaire des rencontres")
+generer_horaire_rencontres()
 
 print("Générer la page du projet personnel")
 generer_projet_personnel()
