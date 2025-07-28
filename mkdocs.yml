@@ -40,7 +40,7 @@ nav:
   - 'Horaire des rencontres de fin de projet': 'horaire_rencontres.md'
   - 'Projet personnel': 'projet_personnel.md'
   - 'À propos': 'apropos.md'
-  - "Techniques de l'informatique": 'https://techinfo.kerzo.ca'
+  - "Techniques de l'informatique": 'https://techinfo.profinfo.ca'
 
 markdown_extensions:
   - admonition
