@@ -72,6 +72,12 @@ La présentation est une démonstration de toutes les fonctionnalités développ
 
 L’entrevue se fait dans une salle isolée des autres élèves et a une durée de 20 minutes.
 
+# Niveau d'intelligence artificielle à utiliser  
+
+&nbsp;|Niveau|Exigence pour l'évaluation  
+-|-|  
+:material-lightbulb-outline:{ .lg .middle }|**3**|  Les contenus générés par l'IA sont **reformulés ou cités** dans la production.<br/><br/>Ces contenus représentent une **petite partie** de la production.<br/><br/>[Plus de détails ici](https://techinfo.profinfo.ca/niveaux-ia/)
+
 # Grille de correction
 Élément|Excellent|Satisfaisant|Minimal|Faible|Insuffisant
 --|--|--|--|--|--
