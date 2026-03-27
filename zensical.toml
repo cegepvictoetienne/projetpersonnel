@@ -1,0 +1,40 @@
+[project]
+site_name = "Projet personnel"
+site_url = "https://projetpersonnel.profinfo.ca"
+site_dir = "site"
+docs_dir = "wiki"
+
+nav = [
+  {"Page principale" = "index.md"},
+  {"Horaire" = "horaire.md"},
+  {"Horaire des rencontres de fin de projet" = "horaire_rencontres.md"},
+  {"Projet personnel" = "projet_personnel.md"},
+  {"À propos" = "apropos.md"},
+  {"Techniques de l'informatique" = "https://techinfo.profinfo.ca"},
+  {"Déclaration sur l'utilisation de l'IA" = "declaration-ia.md"}
+]
+
+[project.theme]
+name = "material"
+variant = "classic"
+language = "fr"
+features = [
+  "content.code.copy",
+]
+
+[project.theme.icon.admonition]
+note = "fontawesome/solid/note-sticky"
+abstract = "fontawesome/solid/book"
+info = "fontawesome/solid/circle-info"
+tip = "fontawesome/solid/bullhorn"
+success = "fontawesome/solid/check"
+question = "fontawesome/solid/circle-question"
+warning = "fontawesome/solid/triangle-exclamation"
+failure = "fontawesome/solid/bomb"
+danger = "fontawesome/solid/skull"
+bug = "fontawesome/solid/robot"
+example = "fontawesome/solid/flask"
+quote = "fontawesome/solid/quote-left"
+
+[project.plugins]
+search = {}
