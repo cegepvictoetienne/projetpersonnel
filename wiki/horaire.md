@@ -1,4 +1,4 @@
-# Horaire du cours de projet personnel
+# Horaire
 Jour|Date|Sujet|Livrable
 --|--|--|--
 1|2026-07-27 09:00:00|Intro cours <br/>retour de stage<br/>installation outils de développement|Fiche de projet<br/>Journal d'expérimentation

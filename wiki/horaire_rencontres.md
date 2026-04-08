@@ -1,4 +1,4 @@
-# Horaire des rencontres de fin de projet
+# Horaire rencontre
 Date et heure|Nom de l'étudiant
 --|--
 2026-08-05 13:00:00|Yohan R.
