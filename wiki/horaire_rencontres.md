@@ -12,8 +12,8 @@ Date et heure|Nom de l'étudiant
 2026-08-05 15:00:00|Rachid T.
 2026-08-05 15:15:00|Bady Pascal F.
 2026-08-05 15:30:00|Breno G.
-2026-08-05 15:45:00|Derek B.
-2026-08-06 09:00:00|William C.
+2026-08-05 15:45:00|William C.
+2026-08-06 09:00:00|Derek B.
 2026-08-06 09:15:00|Justin C.
 2026-08-06 09:30:00|Leandre Junior K.
 2026-08-06 09:45:00|Frédérick B.
